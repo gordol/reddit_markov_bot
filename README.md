@@ -1,7 +1,7 @@
 reddit_markov_bot
 =================
 
-A silly script that slurps down a reddit user's comments and generates a random comment from their comment corpus. Eventually this will be a bot, ideally.
+A silly script that slurps down a reddit user's comments and generates random text based upon their comment corpus. Eventually this will be a bot, ideally.
 
 To get started: ```pip install -r requirements.txt```
 
